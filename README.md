@@ -18,4 +18,4 @@
 >🎯 Take 2 image and combine it to form single image. For example collage.
 
 ---
->Author: `Dipaditya Das` | DipadityaDas@gmail.com
+>Author: [`Dipaditya Das`](https://www.linkedin.com/in/dipadityadas/) | DipadityaDas@gmail.com
